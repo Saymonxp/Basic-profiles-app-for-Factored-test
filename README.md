@@ -7,3 +7,5 @@ company does not have a basic system where you can observe the profile of each
 employee. It is your time to shine. The idea is to create a very simple application in which
 the basic information of each employee can be observed.
 
+# Characteristics
+I use Django like a 
