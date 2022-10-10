@@ -1,6 +1,5 @@
 # Description
 A simple aplication in which the basic information of each employee can be observed.
-Online with [GitHub sites](https://saymonxp.github.io/Basic-profiles-app-for-Factored-test/).
 
 # Request
 You have been hired by the Nous company. On your first day of work, you realize that the
@@ -9,7 +8,10 @@ employee. It is your time to shine. The idea is to create a very simple applicat
 the basic information of each employee can be observed.
 
 # Requirements
-To run the application clone the repository and run ```pip install -r requirements.txt```
+To run the application follow the next steps:
+
+- Clone the repository in your local machine.
+- Run ```pip install -r requirements.txt```
 
 # Characteristics
-I use Django like a 
+I use Django like the backend framework. Due to time limitations, I decided to use Django templates as the frontend framework.
